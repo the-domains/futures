@@ -1,9 +1,19 @@
-layout_spectrum: 0.6981350281275809
-typography_spectrum: 0.3570215478539467
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.7680851
 color:
-  brandStrength: 0.1507037489209324
-  lightness: 0.1435117635410279
   saturation: 0.5071275262162089
+  brandStrength: 0.1507037489209324
   rhythmicContrast: 0.5186364601831883
   brandColors:
     - '#450003'
@@ -11,5 +21,7 @@ color:
     - '#94090D'
     - '#D40D12'
     - '#FF1D23'
-name: future.s
+  lightness: 0.1435117635410279
 navigation: []
+layout_spectrum: 0.6981350281275809
+name: future.s
