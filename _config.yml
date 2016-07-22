@@ -1,14 +1,14 @@
 layout_spectrum: 0.6981350281275809
-typography_spectrum: 0.2090489505790174
+typography_spectrum: 0.3570215478539467
 color:
-  brandStrength: 0.28081190306693316
-  lightness: 0.01665822183713317
-  saturation: 0.22878153552301228
-  rhythmicContrast: 0.8182757506147027
+  brandStrength: 0.1507037489209324
+  lightness: 0.1435117635410279
+  saturation: 0.5071275262162089
+  rhythmicContrast: 0.5186364601831883
   brandColors:
-    - '#F8F9FC'
-    - '#224FAA'
-    - '#A62626'
-    - '#3D588F'
-    - '#C7CAD1'
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
 name: future.s
