@@ -12,8 +12,4 @@ color:
     - '#D40D12'
     - '#FF1D23'
 name: future.s
-navigation:
-  - id: 874c3e6a-27ba-4d5c-9961-65f2527da679
-    url: 2016-07-22-welcome-to-futures.html
-    name: future.S
-    type: content
+navigation: []
