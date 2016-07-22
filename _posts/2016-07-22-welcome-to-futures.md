@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-07-22T13:44:16.721Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/87b9c5a1-ff51-455e-a35f-003c2e811067.jpg
+datePublished: '2016-07-22T14:16:49.280Z'
 author: []
 via: {}
-dateModified: '2016-07-22T13:44:10.219Z'
+dateModified: '2016-07-22T14:16:46.504Z'
 title: Welcome to future.S
 publisher:
   name: SpaceX
@@ -12,11 +10,10 @@ description: >-
   A sense of the unknown has always lured mankind and the greatest of the
   unknowns of today is outer space. The terrors, the joys and the sense of
   accomplishment are epitomized in the space program.
-starred: false
 sourcePath: _posts/2016-07-22-welcome-to-futures.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: welcome-to-futures/index.html
 _type: MediaObject
 
 ---
