@@ -6,9 +6,9 @@ color:
   saturation: 0.22878153552301228
   rhythmicContrast: 0.8182757506147027
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#F8F9FC'
+    - '#224FAA'
+    - '#A62626'
+    - '#3D588F'
+    - '#C7CAD1'
 name: future.s
