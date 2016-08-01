@@ -1,20 +1,17 @@
 ---
 author: []
 title: 'Mars, the new frontier'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eceef6c4-a061-4573-b6e8-f65071845b03.jpg
-dateModified: '2016-07-23T08:56:11.314Z'
-datePublished: '2016-07-23T08:56:58.829Z'
+dateModified: '2016-08-01T15:23:13.258Z'
+datePublished: '2016-08-01T15:23:15.824Z'
 description: >-
   Ever since the moon landing, man has looked beyond the bonds of Earth and to
   Mars, yet after so long, why aren't we there yet?
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-mars-the-new-frontier.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: mars-the-new-frontier/index.html
 _type: MediaObject
 
 ---
