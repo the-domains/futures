@@ -26,5 +26,8 @@ navigation:
   - name: SpaceX ISS Program
     id: 2d953f5b-684a-40f0-b378-53f50e05b8a0
     type: content
+  - name: Mars
+    id: a8e4b14d-ba71-4e55-82ad-96022a5580fe
+    type: content
 layout_spectrum: 0.6981350281275809
 name: future.s
