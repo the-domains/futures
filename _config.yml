@@ -4,13 +4,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.7680851
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.5071275262162089
   brandStrength: 0.1507037489209324
@@ -22,12 +21,7 @@ color:
     - '#D40D12'
     - '#FF1D23'
   lightness: 0.1435117635410279
-navigation:
-  - name: SpaceX ISS Program
-    id: 2d953f5b-684a-40f0-b378-53f50e05b8a0
-    type: content
-  - name: Mars
-    id: a8e4b14d-ba71-4e55-82ad-96022a5580fe
-    type: content
-layout_spectrum: 0.6981350281275809
+typography_spectrum: 0.9072682
+navigation: []
+layout_spectrum: 0.5244361
 name: future.s
