@@ -1,19 +1,16 @@
 ---
-datePublished: '2016-08-01T15:21:40.725Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac4ad351-c90f-4fca-99b0-c5856c6b8c57.jpg
+datePublished: '2016-08-01T15:22:55.294Z'
 author: []
 via: {}
-dateModified: '2016-08-01T15:13:54.832Z'
+dateModified: '2016-08-01T15:22:53.370Z'
 title: Nasa orders new SpaceX Crew Flight
 publisher:
   name: SpaceX
 description: Nasa approves 4th Space Mission to ISS
-starred: false
 sourcePath: _posts/2016-08-01-nasa-orders-new-spacex-crew-flight.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: nasa-orders-new-spacex-crew-flight/index.html
 _type: MediaObject
 
 ---
