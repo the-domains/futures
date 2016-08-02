@@ -11,17 +11,17 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.5071275262162089
-  brandStrength: 0.1507037489209324
-  rhythmicContrast: 0.5186364601831883
+  saturation: 0.5979002790991217
+  brandStrength: 0.09194543631747365
+  rhythmicContrast: 0.07154946029186249
   brandColors:
-    - '#450003'
-    - '#5C0002'
-    - '#94090D'
-    - '#D40D12'
-    - '#FF1D23'
-  lightness: 0.1435117635410279
-typography_spectrum: 0.9072682
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  lightness: 0.736533802933991
+typography_spectrum: 0.7144645268563181
 navigation: []
-layout_spectrum: 0.5244361
+layout_spectrum: 0.6140683391131461
 name: future.s
