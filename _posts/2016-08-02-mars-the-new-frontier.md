@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-03T08:57:46.295Z'
+datePublished: '2016-08-03T09:00:37.021Z'
 sourcePath: _posts/2016-08-02-mars-the-new-frontier.md
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-03T08:57:44.372Z'
+dateModified: '2016-08-03T09:00:35.076Z'
 title: 'Mars, The New Frontier'
 publisher: {}
 description: >-
@@ -12,7 +13,7 @@ description: >-
   Mars, yet after so long, why aren't we there yet?
 starred: false
 url: mars-the-new-frontier/index.html
-_type: MediaObject
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee644c7e-fdaf-48c7-ba7a-e7e161b3bc7a.jpg)
