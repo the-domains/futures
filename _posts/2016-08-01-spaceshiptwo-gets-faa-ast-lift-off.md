@@ -1,17 +1,18 @@
 ---
-datePublished: '2016-08-03T08:58:50.124Z'
+datePublished: '2016-08-03T09:01:01.552Z'
 sourcePath: _posts/2016-08-01-spaceshiptwo-gets-faa-ast-lift-off.md
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-03T08:58:48.174Z'
+dateModified: '2016-08-03T09:00:59.701Z'
 title: SpaceShipTwo gets FAA-AST Lift off
 publisher:
   name: Virgin Galactic
 description: SpaceShipTwo gets lift off!
 starred: false
 url: spaceshiptwo-gets-faa-ast-lift-off/index.html
-_type: MediaObject
+_type: Article
 
 ---
 # SpaceShipTwo gets FAA-AST Lift off
