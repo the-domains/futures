@@ -4,7 +4,7 @@
         <description><![CDATA[future.s]]></description>
         <link>https://thegrid.ai/futures/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 08:58:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 09:01:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/futures/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/futures/ce72d253-cd0e-434d-b042-33ac74516b30/index.html</link>
             <guid isPermaLink="false">ce72d253-cd0e-434d-b042-33ac74516b30</guid>
             <pubDate>Fri, 22 Jul 2016 12:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SpaceShipTwo gets FAA-AST Lift off]]></title>
+            <description><![CDATA[<article><h1>SpaceShipTwo gets FAA-AST Lift off</h1><p>SpaceShipTwo gets lift off!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f0f703c-3675-404e-b122-163f8aca3291.jpg"></article>]]></description>
+            <link>https://thegrid.ai/futures/spaceshiptwo-gets-faa-ast-lift-off/index.html</link>
+            <guid isPermaLink="false">ed2131c3-5dfa-42a7-990e-5f51ed1a0c85</guid>
+            <pubDate>Wed, 03 Aug 2016 09:01:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mars, The New Frontier]]></title>
+            <description><![CDATA[<article><h1>Mars, The New Frontier</h1><p>Ever since the moon landing, man has looked beyond the bonds of Earth and to Mars, yet after so long, why aren't we there yet?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee644c7e-fdaf-48c7-ba7a-e7e161b3bc7a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/futures/mars-the-new-frontier/index.html</link>
+            <guid isPermaLink="false">9091e47b-1c84-4f4b-bae2-79aacadb05e6</guid>
+            <pubDate>Wed, 03 Aug 2016 09:00:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
