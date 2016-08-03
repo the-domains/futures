@@ -1,17 +1,18 @@
 ---
-datePublished: '2016-08-03T08:58:11.731Z'
+datePublished: '2016-08-03T09:01:15.101Z'
 sourcePath: _posts/2016-08-02-nasa-signs-on-spacex.md
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-03T08:58:09.784Z'
+dateModified: '2016-08-03T09:00:43.441Z'
 title: Nasa Signs on SpaceX
 publisher:
   name: SpaceX
 description: Nasa approves 4th Space Mission to ISS with SpaceX
 starred: false
 url: nasa-signs-on-spacex/index.html
-_type: MediaObject
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c54f1274-ee08-4dd8-a4d9-ff788bc659e3.jpg)
