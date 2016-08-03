@@ -1,19 +1,16 @@
 ---
+datePublished: '2016-08-03T08:58:50.124Z'
+sourcePath: _posts/2016-08-01-spaceshiptwo-gets-faa-ast-lift-off.md
+hasPage: true
 author: []
-datePublished: '2016-08-01T18:57:00.196Z'
 via: {}
+dateModified: '2016-08-03T08:58:48.174Z'
 title: SpaceShipTwo gets FAA-AST Lift off
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f0f703c-3675-404e-b122-163f8aca3291.jpg
 publisher:
   name: Virgin Galactic
 description: SpaceShipTwo gets lift off!
-dateModified: '2016-08-01T18:49:45.889Z'
-sourcePath: _posts/2016-08-01-spaceshiptwo-gets-faa-ast-lift-off.md
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: spaceshiptwo-gets-faa-ast-lift-off/index.html
 _type: MediaObject
 
 ---
