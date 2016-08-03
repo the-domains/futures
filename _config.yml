@@ -1,3 +1,18 @@
+typography_spectrum: 0.44744231505319476
+color:
+  saturation: 0.5979002790991217
+  brandStrength: 0.09194543631747365
+  rhythmicContrast: 0.07154946029186249
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  lightness: 0.736533802933991
+layout_spectrum: 0.07075016177259386
+name: future.s
+navigation: []
 collections:
   - index:
       path: /
@@ -10,18 +25,4 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.5979002790991217
-  brandStrength: 0.09194543631747365
-  rhythmicContrast: 0.07154946029186249
-  brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  lightness: 0.736533802933991
-typography_spectrum: 0.44744231505319476
-navigation: []
-layout_spectrum: 0.07075016177259386
-name: future.s
+title: future.S
