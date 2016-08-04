@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[future.s]]></title>
-        <description><![CDATA[future.s]]></description>
+        <title><![CDATA[future.S]]></title>
+        <description><![CDATA[future.S]]></description>
         <link>https://thegrid.ai/futures/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 09:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 12:25:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/futures/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/futures/ce72d253-cd0e-434d-b042-33ac74516b30/index.html</link>
             <guid isPermaLink="false">ce72d253-cd0e-434d-b042-33ac74516b30</guid>
             <pubDate>Fri, 22 Jul 2016 12:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Journey to Mars Showcase ]]></title>
+            <description><![CDATA[<article><h1>Journey to Mars Showcase </h1><p>Nasa sends out invites for the Journey to Mars Showcase on August 18th</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3151cb4b-5dbf-444e-9b45-fa5e19c8a30c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/futures/journey-to-mars-showcase/index.html</link>
+            <guid isPermaLink="false">61f24e96-430c-4310-8dc3-3fcdc9f8afdf</guid>
+            <pubDate>Thu, 04 Aug 2016 12:25:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nasa Signs on SpaceX]]></title>
