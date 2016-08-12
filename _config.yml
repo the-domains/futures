@@ -11,7 +11,7 @@ color:
     - '#2980B9'
   lightness: 0.736533802933991
 layout_spectrum: 0.07075016177259386
-name: future.s
+name: missionSPACE
 collections:
   - index:
       path: /
