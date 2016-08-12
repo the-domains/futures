@@ -11,7 +11,11 @@ color:
     - '#2980B9'
   lightness: 0.736533802933991
 layout_spectrum: 0.07075016177259386
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6525fce5-e33b-4516-bed9-ddfc475f5679.jpg
 name: missionSPACE
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ae947a6-22fa-4b64-a08d-acd3238fbc7f.jpg
 collections:
   - index:
       path: /
