@@ -12,7 +12,6 @@ color:
   lightness: 0.736533802933991
 layout_spectrum: 0.07075016177259386
 name: future.s
-navigation: []
 collections:
   - index:
       path: /
@@ -25,5 +24,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: future.S
+title: MissionSPACE
 description: Following the Future
