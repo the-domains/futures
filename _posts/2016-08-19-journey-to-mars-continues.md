@@ -1,18 +1,18 @@
 ---
-description: Nasa successfully tests engines for Mars
-dateModified: '2016-08-19T12:48:43.092Z'
-datePublished: '2016-08-19T12:49:06.040Z'
-title: Journey to Mars Continues
-author: []
-publisher:
-  name: Nasa
-via: {}
-starred: false
+datePublished: '2016-08-19T13:12:21.236Z'
 sourcePath: _posts/2016-08-19-journey-to-mars-continues.md
 inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-19T13:12:19.419Z'
+title: Journey to Mars Continues
+publisher:
+  name: Nasa
+description: Nasa successfully tests engines for Mars
+starred: false
+url: journey-to-mars-continues/index.html
+_type: Article
 
 ---
 # Journey to Mars Continues
