@@ -4,18 +4,18 @@
         <description><![CDATA[MissionSPACE]]></description>
         <link>http://missionspace.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 08:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 08:52:13 GMT</lastBuildDate>
         <atom:link href="http://missionspace.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d079089e-01f3-4cdd-a2fc-cec35536133a.jpg">]]></description>
-            <link>http://missionspace.co/7fe1e9af-a871-4895-a3a5-c5c711fad544/index.html</link>
-            <guid isPermaLink="false">7fe1e9af-a871-4895-a3a5-c5c711fad544</guid>
-            <pubDate>Fri, 12 Aug 2016 15:21:37 GMT</pubDate>
+            <title><![CDATA[Life on Mars… Here on Earth]]></title>
+            <description><![CDATA[<article><h1>Life on Mars… Here on Earth</h1><p>Scientists will complete living on freeze-dried food and trying to avoid personal conflicts on the red planet-like slopes of Mauna Loa for a year.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12a24cc1-b270-4ccb-ba68-e8e415953fc3.jpg"></article>]]></description>
+            <link>http://missionspace.co/life-on-mars-here-on-earth/index.html</link>
+            <guid isPermaLink="false">657b4c33-0b46-4ad7-a1c0-acb18433b962</guid>
+            <pubDate>Mon, 22 Aug 2016 08:48:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NASA's Curiosity Mars Rover at Murray Buttes (360 View)]]></title>
-            <description><![CDATA[<article><h1>NASA's Curiosity Mars Rover at Murray Buttes (360 View)</h1><p>Explore this Mars panorama by moving the view with your mouse or mobile device. This 360-degree panorama was acquired on Aug. 5, 2016, by the Mastcam on NASA's Curiosity Mars rover as the rover neared features called "Murray Buttes" on lower Mount Sharp.</p></article>]]></description>
+            <description><![CDATA[<article><h1>NASA's Curiosity Mars Rover at Murray Buttes (360 View)</h1><p>Explore this Mars panorama by moving the view with your mouse or mobile device. This 360-degree panorama was acquired on Aug. 5, 2016, by the Mastcam on NASA's Curiosity Mars rover as the rover neared features called "Murray Buttes" on lower Mount Sharp.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b669403eea9641cfc87fc7cc8c617135/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FUUweNrpFTwA%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=UUweNrpFTwA</link>
             <guid isPermaLink="false">0b915a22-83b4-45cd-a079-66dbfbd2d488</guid>
             <pubDate>Mon, 22 Aug 2016 08:44:21 GMT</pubDate>
@@ -68,13 +68,6 @@
             <link>http://missionspace.co/spaceshiptwo-gets-faa-ast-lift-off/index.html</link>
             <guid isPermaLink="false">ed2131c3-5dfa-42a7-990e-5f51ed1a0c85</guid>
             <pubDate>Wed, 03 Aug 2016 09:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mars, The New Frontier]]></title>
-            <description><![CDATA[<article><h1>Mars, The New Frontier</h1><p>Ever since the moon landing, man has looked beyond the bonds of Earth and to Mars, yet after so long, why aren't we there yet?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee644c7e-fdaf-48c7-ba7a-e7e161b3bc7a.jpg"></article>]]></description>
-            <link>http://missionspace.co/mars-the-new-frontier/index.html</link>
-            <guid isPermaLink="false">9091e47b-1c84-4f4b-bae2-79aacadb05e6</guid>
-            <pubDate>Wed, 03 Aug 2016 09:00:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
