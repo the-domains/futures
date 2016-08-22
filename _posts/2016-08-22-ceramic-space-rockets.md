@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-08-22T12:24:43.795Z'
+datePublished: '2016-08-22T12:36:46.128Z'
+sourcePath: _posts/2016-08-22-ceramic-space-rockets.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T12:23:35.329Z'
+dateModified: '2016-08-22T12:36:44.267Z'
 title: Ceramic Space Rockets
 publisher:
-  name: Nasa
+  name: Roscosmos
 description: >-
   Temperatures of space craft have always been an issue engineers have had to
   overcome, however, a new solution may be about to appear.
 starred: false
-sourcePath: _posts/2016-08-22-ceramic-space-rockets.md
 url: ceramic-space-rockets/index.html
 _type: Article
 
