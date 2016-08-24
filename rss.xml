@@ -4,8 +4,15 @@
         <description><![CDATA[MissionSPACE]]></description>
         <link>http://missionspace.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 10:57:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 15:11:55 GMT</lastBuildDate>
         <atom:link href="http://missionspace.co/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Space Race Mars]]></title>
+            <description><![CDATA[<article><h1>Space Race Mars</h1><p>China eyes a 2020 launch alongside Nasa</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9507e430-1329-473e-8f17-930cf31ae6d5.jpg"></article>]]></description>
+            <link>http://missionspace.co/space-race-mars/index.html</link>
+            <guid isPermaLink="false">b18df166-87fb-42b5-a023-46b63a13a3a4</guid>
+            <pubDate>Wed, 24 Aug 2016 15:11:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ESO Proxima Centauri announcement expected today]]></title>
             <description><![CDATA[<article><h1>ESO Proxima Centauri announcement expected today</h1><p>Eso are expected to confirm the findings of Earth Like Proxima Centauri Exo Planet today. Breaking News Shortly</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e32ec03b-a1e0-4731-90d1-48b2c4f6ebcb.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://missionspace.co/journey-to-mars-showcase/index.html</link>
             <guid isPermaLink="false">61f24e96-430c-4310-8dc3-3fcdc9f8afdf</guid>
             <pubDate>Thu, 04 Aug 2016 12:27:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nasa Signs on SpaceX]]></title>
-            <description><![CDATA[<article><h1>Nasa Signs on SpaceX</h1><p>Nasa approves 4th Space Mission to ISS with SpaceX</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c54f1274-ee08-4dd8-a4d9-ff788bc659e3.jpg"></article>]]></description>
-            <link>http://missionspace.co/nasa-signs-on-spacex/index.html</link>
-            <guid isPermaLink="false">1d433f12-77c9-488c-bb8d-e2953bdf2425</guid>
-            <pubDate>Wed, 03 Aug 2016 09:01:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
