@@ -4,8 +4,15 @@
         <description><![CDATA[MissionSPACE]]></description>
         <link>http://missionspace.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 12:36:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 10:57:34 GMT</lastBuildDate>
         <atom:link href="http://missionspace.co/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ESO Proxima Centauri announcement expected today]]></title>
+            <description><![CDATA[<article><h1>ESO Proxima Centauri announcement expected today</h1><p>Eso are expected to confirm the findings of Earth Like Proxima Centauri Exo Planet today. Breaking News Shortly</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e32ec03b-a1e0-4731-90d1-48b2c4f6ebcb.jpg"></article>]]></description>
+            <link>http://missionspace.co/eso-proxima-centauri-announcement-expected-today/index.html</link>
+            <guid isPermaLink="false">63ce7943-4702-4c0d-91d6-cef9825954e6</guid>
+            <pubDate>Wed, 24 Aug 2016 10:57:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ceramic Space Rockets]]></title>
             <description><![CDATA[<article><h1>Ceramic Space Rockets</h1><p>Temperatures of space craft have always been an issue engineers have had to overcome, however, a new solution may be about to appear.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4f3df98-f13c-4bf7-8ed8-1dabaa5e7f28.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://missionspace.co/nasa-signs-on-spacex/index.html</link>
             <guid isPermaLink="false">1d433f12-77c9-488c-bb8d-e2953bdf2425</guid>
             <pubDate>Wed, 03 Aug 2016 09:01:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceShipTwo gets FAA-AST Lift off]]></title>
-            <description><![CDATA[<article><h1>SpaceShipTwo gets FAA-AST Lift off</h1><p>SpaceShipTwo gets lift off!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f0f703c-3675-404e-b122-163f8aca3291.jpg"></article>]]></description>
-            <link>http://missionspace.co/spaceshiptwo-gets-faa-ast-lift-off/index.html</link>
-            <guid isPermaLink="false">ed2131c3-5dfa-42a7-990e-5f51ed1a0c85</guid>
-            <pubDate>Wed, 03 Aug 2016 09:01:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
