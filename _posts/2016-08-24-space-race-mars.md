@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-24T14:53:15.094Z'
+datePublished: '2016-08-24T15:11:51.858Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T14:53:06.100Z'
+dateModified: '2016-08-24T15:11:49.081Z'
 title: Space Race Mars
 publisher:
   name: CNSA
 description: China eyes a 2020 launch alongside Nasa
-starred: false
 sourcePath: _posts/2016-08-24-space-race-mars.md
+starred: true
 url: space-race-mars/index.html
 _type: Article
 
