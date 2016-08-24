@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-24T10:17:30.802Z'
+datePublished: '2016-08-24T10:57:32.036Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T10:14:48.071Z'
+dateModified: '2016-08-24T10:57:30.072Z'
 title: ESO Proxima Centauri announcement expected today
 publisher: {}
 description: >-
   Eso are expected to confirm the findings of Earth Like Proxima Centauri Exo
   Planet today. Breaking News Shortly
-starred: false
 sourcePath: _posts/2016-08-24-eso-proxima-centauri-announcement-expected-today.md
+starred: true
 url: eso-proxima-centauri-announcement-expected-today/index.html
 _type: Article
 
