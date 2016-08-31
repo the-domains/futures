@@ -1,9 +1,11 @@
 ---
-datePublished: '2016-08-29T15:52:17.783Z'
+datePublished: '2016-08-29T16:02:21.171Z'
 sourcePath: _posts/2016-08-27-juno-jupiter-fly-by.md
+inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-29T15:52:17.245Z'
+dateModified: '2016-08-29T16:02:20.480Z'
 title: Juno Fly Past Success
 publisher:
   name: Nasa
@@ -11,10 +13,8 @@ description: >-
   After a journey of more than 5 years, Nasa’s Juno Probe is preparing for its
   closest rotation of Jupiter
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: juno-fly-past-success/index.html
+_type: Article
 
 ---
 # Juno Fly Past Success
