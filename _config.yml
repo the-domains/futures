@@ -1,4 +1,3 @@
-layout_spectrum: 0.3707033134996891
 typography_spectrum: 0.6381553737446666
 color:
   saturation: 0.19607564597390592
@@ -11,6 +10,7 @@ color:
     - '#3D588F'
     - '#C7CAD1'
   lightness: 0.6735615197103471
+layout_spectrum: 0.3707033134996891
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6525fce5-e33b-4516-bed9-ddfc475f5679.jpg
 name: missionSPACE
@@ -28,5 +28,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: MissionSPACE
+title: MissionSpace
 description: Breaking News on Space and Exploration
