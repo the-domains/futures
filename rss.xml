@@ -4,7 +4,7 @@
         <description><![CDATA[MissionSPACE]]></description>
         <link>http://missionspace.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 09:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 16:02:38 GMT</lastBuildDate>
         <atom:link href="http://missionspace.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ESO Proxima Centauri announcement expected today]]></title>
@@ -68,13 +68,6 @@
             <link>http://missionspace.co/spacex-prepares-mars-engines/index.html</link>
             <guid isPermaLink="false">0aa1705d-c7dd-47ca-8056-c8ad16afa71f</guid>
             <pubDate>Fri, 12 Aug 2016 13:51:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Journey to Mars Showcase]]></title>
-            <description><![CDATA[<article><h1>Journey to Mars Showcase</h1><p>Nasa sends out invites for the Journey to Mars Showcase on August 18th</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3151cb4b-5dbf-444e-9b45-fa5e19c8a30c.jpg"></article>]]></description>
-            <link>http://missionspace.co/journey-to-mars-showcase/index.html</link>
-            <guid isPermaLink="false">61f24e96-430c-4310-8dc3-3fcdc9f8afdf</guid>
-            <pubDate>Thu, 04 Aug 2016 12:27:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
