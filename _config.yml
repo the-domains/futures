@@ -1,16 +1,16 @@
-typography_spectrum: 0.44744231505319476
+layout_spectrum: 0.3707033134996891
+typography_spectrum: 0.39839386311359704
 color:
-  saturation: 0.5979002790991217
-  brandStrength: 0.09194543631747365
-  rhythmicContrast: 0.07154946029186249
+  saturation: 0.022822642466053367
+  brandStrength: 0.02868655789643526
+  rhythmicContrast: 0.38850784371607006
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  lightness: 0.736533802933991
-layout_spectrum: 0.07075016177259386
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  lightness: 0.3276300998404622
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6525fce5-e33b-4516-bed9-ddfc475f5679.jpg
 name: missionSPACE
