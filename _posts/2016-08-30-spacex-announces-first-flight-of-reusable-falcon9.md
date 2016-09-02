@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-08-30T18:56:30.344Z'
+datePublished: '2016-08-30T18:59:10.277Z'
 sourcePath: _posts/2016-08-30-spacex-announces-first-flight-of-reusable-falcon9.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T18:56:25.475Z'
+dateModified: '2016-08-30T18:59:06.213Z'
 title: SpaceX announces first flight of Reusable Falcon9
 publisher:
   name: SpaceX
 description: >-
   SES and SpaceX announced today they have reached an agreement to launch SES-10
   on a re-used Falcon 9 rocket booster.
-starred: false
+starred: true
 url: spacex-announces-first-flight-of-reusable-falcon9/index.html
 _type: Article
 
