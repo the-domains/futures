@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-30T18:56:22.557Z'
+datePublished: '2016-08-30T18:56:30.344Z'
 sourcePath: _posts/2016-08-30-spacex-announces-first-flight-of-reusable-falcon9.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T18:56:16.885Z'
+dateModified: '2016-08-30T18:56:25.475Z'
 title: SpaceX announces first flight of Reusable Falcon9
 publisher:
   name: SpaceX
