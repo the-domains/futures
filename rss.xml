@@ -4,8 +4,15 @@
         <description><![CDATA[MissionSpaceCo]]></description>
         <link>http://missionspace.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 18:57:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 18:59:13 GMT</lastBuildDate>
         <atom:link href="http://missionspace.co/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SpaceX announces first flight of Reusable Falcon9]]></title>
+            <description><![CDATA[<article><h1>SpaceX announces first flight of Reusable Falcon9</h1><p>SES and SpaceX announced today they have reached an agreement to launch SES-10 on a re-used Falcon 9 rocket booster.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10a72df1-2c87-424d-80c5-ba2c06ba1189.jpg"></article>]]></description>
+            <link>http://missionspace.co/spacex-announces-first-flight-of-reusable-falcon9/index.html</link>
+            <guid isPermaLink="false">9ec39f13-e35c-41ea-8bba-aa322f6f7d18</guid>
+            <pubDate>Tue, 30 Aug 2016 18:59:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Juno Fly Past Success]]></title>
             <description><![CDATA[<article><h1>Juno Fly Past Success</h1><p>After a journey of more than 5 years, Nasa’s Juno Probe is preparing for its closest rotation of Jupiter</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/48efd343-8948-4ef9-aad7-2c47b48fed6f.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>http://missionspace.co/space-race-mars/index.html</link>
             <guid isPermaLink="false">b18df166-87fb-42b5-a023-46b63a13a3a4</guid>
             <pubDate>Wed, 24 Aug 2016 15:11:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX announces first flight of Reusable Falcon9]]></title>
-            <description><![CDATA[<article><h1>SpaceX announces first flight of Reusable Falcon9</h1><p>SES and SpaceX announced today they have reached an agreement to launch SES-10 on a re-used Falcon 9 rocket booster.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10a72df1-2c87-424d-80c5-ba2c06ba1189.jpg"></article>]]></description>
-            <link>http://missionspace.co/spacex-announces-first-flight-of-reusable-falcon9/index.html</link>
-            <guid isPermaLink="false">9ec39f13-e35c-41ea-8bba-aa322f6f7d18</guid>
-            <pubDate>Tue, 30 Aug 2016 18:56:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ceramic Space Rockets]]></title>
