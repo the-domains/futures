@@ -4,8 +4,15 @@
         <description><![CDATA[MissionSpaceCo]]></description>
         <link>http://missionspace.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 18:59:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 11:59:14 GMT</lastBuildDate>
         <atom:link href="http://missionspace.co/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Horizons sights new Horizon]]></title>
+            <description><![CDATA[<article><h1>New Horizons sights new Horizon</h1><p>Nasa aims New Horizons at Dwarf Planet Quaoar </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7368acff-45a5-4b54-acea-4aca4e376a5d.jpg"></article>]]></description>
+            <link>http://missionspace.co/new-horizons-sights-new-horizon/index.html</link>
+            <guid isPermaLink="false">807c8137-3101-43d3-8a59-d057296f75db</guid>
+            <pubDate>Thu, 01 Sep 2016 11:58:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SpaceX announces first flight of Reusable Falcon9]]></title>
             <description><![CDATA[<article><h1>SpaceX announces first flight of Reusable Falcon9</h1><p>SES and SpaceX announced today they have reached an agreement to launch SES-10 on a re-used Falcon 9 rocket booster.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10a72df1-2c87-424d-80c5-ba2c06ba1189.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://missionspace.co/moon2017/index.html</link>
             <guid isPermaLink="false">82180d05-86a4-4a54-98ab-117550194542</guid>
             <pubDate>Fri, 19 Aug 2016 13:13:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Journey to Mars Continues]]></title>
-            <description><![CDATA[<article><h1>Journey to Mars Continues</h1><p>Nasa successfully tests engines for Mars</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9110d3c2-18f8-4bb1-ad66-486cc3d707da.jpg"></article>]]></description>
-            <link>http://missionspace.co/journey-to-mars-continues/index.html</link>
-            <guid isPermaLink="false">81a77aef-197e-4550-a657-c9e670e535fb</guid>
-            <pubDate>Fri, 19 Aug 2016 13:12:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
