@@ -4,8 +4,15 @@
         <description><![CDATA[MissionSpaceCo]]></description>
         <link>http://missionspace.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 11:59:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 14:04:44 GMT</lastBuildDate>
         <atom:link href="http://missionspace.co/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SpaceX Falcon9 Explosion]]></title>
+            <description><![CDATA[<article><h1>SpaceX Falcon9 Explosion</h1><p>SpaceX’s Falcon9 rocket explodes during test fire</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/46adcd6e-6783-4f29-b638-dcae3c51bc6f.jpg"></article>]]></description>
+            <link>http://missionspace.co/spacex-falcon9-explosion/index.html</link>
+            <guid isPermaLink="false">cd342451-0886-49a6-ae53-5de7adb19ac0</guid>
+            <pubDate>Thu, 01 Sep 2016 14:04:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New Horizons sights new Horizon]]></title>
             <description><![CDATA[<article><h1>New Horizons sights new Horizon</h1><p>Nasa aims New Horizons at Dwarf Planet Quaoar </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7368acff-45a5-4b54-acea-4aca4e376a5d.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://missionspace.co/nasa-successfully-installs-new-commercial-docking/index.html</link>
             <guid isPermaLink="false">725feea8-b827-47e2-9ded-600664647176</guid>
             <pubDate>Mon, 22 Aug 2016 08:43:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moon:2017]]></title>
-            <description><![CDATA[<article><h1>Moon:2017</h1><p>US grants its first clearance for a private flight to the moon. First step towards commercial space.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbb0abc9-de96-451a-aa6e-5454a6071446.jpg"></article>]]></description>
-            <link>http://missionspace.co/moon2017/index.html</link>
-            <guid isPermaLink="false">82180d05-86a4-4a54-98ab-117550194542</guid>
-            <pubDate>Fri, 19 Aug 2016 13:13:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
